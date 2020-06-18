@@ -4,12 +4,13 @@
   "private": true,
   "scripts": {
     "build": "hexo generate",
+    "start": "hexo clean && git add . && git commit -m \"Update\" && git push",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server"
   },
   "hexo": {
-    "version": ""
+    "version": "4.2.1"
   },
   "dependencies": {
     "hexo": "^4.2.1",
