@@ -1,0 +1,44 @@
+- name: Lodash
+  url: https://lodash.com/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/l.png
+  description: Lodash 是一个一致性、模块化、高性能的 JavaScript 实用工具库
+- name: outils
+  url: https://github.com/proYang/outils
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/o.png
+  description: 前端业务代码工具库。
+- name: layer
+  url: http://layer.layui.com/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/layer.png
+  description: layer是一款口碑极佳的web弹层组件，她具备全方位的解决方案，致力于服务各个水平段的开发人员，您的页面会轻松地拥有丰富而友好的操作体验。
+- name: lazyload
+  url: https://github.com/tuupola/lazyload
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/l.png
+  description: 图片懒加载。
+- name: Viewer.js
+  url: https://github.com/fengyuanchen/viewerjs
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/viewerjs.png
+  description: JavaScript 图片查看器.
+- name: AnimateScroll
+  url: https://plugins.compzets.com/animatescroll/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/animatescroll.png
+  description: jQuery 滚动动画插件。
+- name: Element
+  url: https://github.com/ElemeFE/element
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/element.png
+  description: Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库。
+- name: sweetalert2
+  url: https://github.com/sweetalert2/sweetalert2
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/sweetalert2.png
+  description: 一个美观，响应，可定制，可访问（WAI-ARIA）替代JAVASCRIPT的弹出框。
+- name: APlayer
+  url: https://github.com/MoePlayer/APlayer
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/animate.png
+  description: 一个漂亮的 HTML5 音乐播放器。
+- name: DPlayer
+  url: https://plugins.compzets.com/animatescroll/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/dplayer.png
+  description: 一个可爱的 HTML5 弹幕视频播放器。
+- name: Leon Sans
+  url: https://github.com/cmiscm/leonsans
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/leonsans.png
+  description: 动态字体特效。

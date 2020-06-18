@@ -1,0 +1,48 @@
+- name: Github
+  url: https://github.com/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/github.png
+  description: 面向开源及私有软件项目的托管平台。
+- name: IPIP
+  url: https://www.ipip.net/ip.html
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/ipip.png
+  description: 专业的 IP 地址库。
+- name: CODING
+  url: https://coding.net/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/coding.png
+  description: Coding.net 是一个面向开发者的云端开发平台，提供 Git/SVN 代码托管、任务管理、在线WebIDE、Cloud Studio、开发协作、文件管理、Wiki 管理、提供个人服务及企业版本的服务。
+- name: NPM
+  url: https://www.npmjs.com/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/npm.png
+  description: npm 是 JavaScript 世界的包管理工具，并且是 Node.js 平台的默认包管理工具。通过 npm 可以安装、共享、分发代码，管理项目依赖关系。
+- name: Leancloud
+  url: https://leancloud.cn/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/leancloud.png
+  description: LeanCloud 为应用开发提供一站式解决方案，包括：数据存储、用户管理、消息推送、应用统计、社交分享、实时聊天等服务，让开发者彻底抛弃后端负担，专注于提升用户体验，最大限度提升产品发布、迭代周期，在市场上占领先机。
+- name: 阿里云
+  url: https://www.aliyun.com/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/aliyun.png
+  description: 230万用户正享用阿里云提供的云服务器、云数据库、云存储、CDN、大数据等服务，7x24小时售后支持，专业快速备案，助企业无忧上云。
+- name: 腾讯云
+  url: https://cloud.tencent.com/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/tencent-cloud.png
+  description: 腾讯云为数百万的企业和开发者提供安全稳定的云计算服务，涵盖云服务器、云数据库、云存储、视频与CDN、域名注册等全方位云服务和各行业解决方案。
+- name: 宝塔面板
+  url: https://www.bt.cn/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/baota.png
+  description: 宝塔，让运维简单高效。面板支持Linux与Windows系统。一键配置：LAMP/LNMP、网站、数据库、FTP、SSL，通过Web端轻松管理服务器。
+- name: jsDelivr
+  url: https://www.jsdelivr.com/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/jsdelivr.png
+  description: 适用于npm和GitHub的免费、快速且可靠的开源CDN，具有最好的网络和最佳性能，非常适合生产使用。
+- name: Google 翻译
+  url: https://translate.google.cn/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/translate.png
+  description: Google 的免费翻译服务可提供简体中文和另外 100 多种语言之间的互译功能，可让您即时翻译字词、短语和网页内容。
+- name: Gmail
+  url: https://mail.google.com/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/gmail.png
+  description: Google 的电子邮件服务。
+- name: Shields
+  url: https://shields.io/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/shields.png
+  description: 我们提供快速且可扩展的信息图像作为徽章，适用于GitHub、Travis CI、Jenkins、WordPress和其他更多服务。

@@ -1,0 +1,48 @@
+- name: Carbon
+  url: https://carbon.now.sh/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/carbon.png
+  description: Carbon是最简单的创建和共享源代码美图的方法。
+- name: jsconsole
+  url: https://jsconsole.com/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/jsconsole.png
+  description: 在线 JS 控制台。
+- name: FontSpark
+  url: https://fontspark.app/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/fontspark.png
+  description: 帮助设计师为他们的项目发现理想的字体。
+- name: ColorSpark
+  url: https://colorspark.app/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/colorspark.png
+  description: 一个简单有效的工具，可以生成随机和渐变的颜色，以帮助设计师组合独特且引人注目的调色板。
+- name: TinyPNG
+  url: https://tinypng.com/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/tinypng.png
+  description: 使您的网站更快并节省带宽。 TinyPNG可将您的PNG图像优化50-80％，同时保持完全透明！
+- name: YOPmail
+  url: http://www.yopmail.com/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/yopmail.png
+  description: YOPmail提供临时和匿名的邮箱地址。免费的临时邮箱来避免垃圾邮件。
+- name: Iconfont
+  url: https://www.iconfont.cn/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/iconfont.png
+  description: Iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具。
+- name: 开发工具箱
+  url: http://www.box3.cn/index.html
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/box3.png
+  description: 常用小工具集合于一身，为我们的工作带来了福音。
+- name: 快搜
+  url: https://search.chongbuluo.com/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/chongbuluo.png
+  description: 快搜！虫部落全网独家首发出品！为你聚合Google,百度,必应等国内外综合搜索和学术,资源,专业领域知识等垂直搜索。精准搜索,便捷交互！是你的网络搜索第一站！
+- name: Animate.css
+  url: https://daneden.github.io/animate.css/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/animate.png
+  description: CSS3 动画库，也是目前最通用的动画库。
+- name: Hover.css
+  url: https://ianlunn.github.io/Hover/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/hover.png
+  description: CSS hover 悬停效果，可以应用于链接、按钮、图片等等。
+- name: Editor.md
+  url: https://pandao.github.io/editor.md/
+  img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/editor.png
+  description: 开源在线 Markdown 编辑器。
