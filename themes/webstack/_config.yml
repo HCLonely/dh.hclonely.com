@@ -23,7 +23,7 @@ menu:
     icon: fas fa-tools
     config: devTools
   - name: JS工具库
-    icon: fas fa-tools
+    icon: fas fa-toolbox
     config: jsTools
 
 about:
